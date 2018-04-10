@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com TDD na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelsantosbr/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "es6"
+  ],
+  "author": "Joel Santos <joel.santos.br@gmail.com> (https://joelsantos.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelsantosbr/js-tdd/issues"
+  },
+  "homepage": "https://github.com/joelsantosbr/js-tdd#readme"
+}
